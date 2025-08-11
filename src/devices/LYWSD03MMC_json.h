@@ -131,7 +131,7 @@ const char* _LYWSD03MMC_json_PVVX_BTHOME = "{\"brand\":\"Xiaomi\",\"model\":\"TH
 
 const char* _LYWSD03MMC_json_props = _common_BVTH_props;
 
-const char* _LYWSD03MMC_BTHOME_json_props = "{\"properties\":{\"packet_1\":{\"unit\":\"int\",\"name\":\"packet_id\"},\"tempc\":{\"unit\":\"°C\",\"name\":\"temperature\"},\"hum\":{\"unit\":\"%\",\"name\":\"humidity\"},\"batt\":{\"unit\":\"%\",\"name\":\"battery\"},\"packet_2\":{\"unit\":\"int\",\"name\":\"packet_id\"},\"volt\":{\"unit\":\"V\",\"name\":\"voltage\"},\"power\":{\"unit\":\"int\",\"name\":\"power\"},\"open\":{\"unit\":\"int\",\"name\":\"open\"}}}";
+const char* _LYWSD03MMC_BTHOME_json_props = "{\"properties\":{\"packet_1\":{\"unit\":\"int\",\"name\":\"packet id\"},\"tempc\":{\"unit\":\"°C\",\"name\":\"temperature\"},\"hum\":{\"unit\":\"%\",\"name\":\"humidity\"},\"batt\":{\"unit\":\"%\",\"name\":\"battery\"},\"packet_2\":{\"unit\":\"int\",\"name\":\"packet id\"},\"volt\":{\"unit\":\"V\",\"name\":\"voltage\"},\"power\":{\"unit\":\"int\",\"name\":\"power\"},\"open\":{\"unit\":\"int\",\"name\":\"open\"}}}";
 /*R""""(
 {
    "properties":{
